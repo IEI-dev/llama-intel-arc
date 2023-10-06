@@ -182,3 +182,5 @@ llama_print_timings: prompt eval time = 18657.43 ms /   151 tokens (  123.56 ms 
 llama_print_timings:        eval time = 52514.95 ms /   267 runs   (  196.69 ms per token,     5.08 tokens per second)
 llama_print_timings:       total time = 5815420.87 ms
 ```
+## Disclaimer
+Read the [disclaimer statement](disclaimer.md)
